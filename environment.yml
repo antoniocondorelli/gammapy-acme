@@ -1,0 +1,26 @@
+name: gammapy-acme-test
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+
+  # scientific stack (pinnata ma senza build)
+  - numpy=2.1
+  - scipy=1.16
+  - pandas=2.2
+  - matplotlib=3.9
+
+  # astronomy
+  - gammapy=2.0
+  - astropy=7.1
+  - astropy-iers-data
+  - regions
+  - naima=0.10
+
+  # jupyter
+  - jupyterlab=4.2
+  - ipykernel
+
+  # yaml
+  - pyyaml

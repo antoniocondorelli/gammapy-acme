@@ -1,0 +1,21 @@
+# requirements.txt per gammapy-acme2 con Python 3.9
+
+# Core scientifici
+numpy
+scipy
+pandas
+matplotlib
+
+# Gamma / astro
+gammapy==2.0
+astropy
+regions
+naima
+
+# Jupyter
+jupyterlab
+ipykernel
+ipython
+
+# YAML
+pyyaml
