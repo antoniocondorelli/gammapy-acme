@@ -1,0 +1,2 @@
+Name           RA        Dec        Dist     Radius
+Westerlund1    251.767   -45.851    3.9      1.0
